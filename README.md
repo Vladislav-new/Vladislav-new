@@ -24,12 +24,11 @@
 **Web Automation:**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)]
 
 **API & Load Testing:**
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-00A98F?style=for-the-badge)
 
 **Mobile Automation:**
 ![Appium](https://img.shields.io/badge/Appium-0D8EBB?style=for-the-badge)
@@ -43,9 +42,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 
 **Development Tools:**
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -56,19 +55,19 @@
 A modern and robust automation framework for end-to-end testing.
 - **Tech:** TypeScript, Playwright, Allure Report, Page Object Model
 - **Features:** Parallel execution, cross-browser testing, HTML reports, CI/CD integration.
-- [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vladislav-new/playwright-typescript-framework)
+- [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vladislav-new/playwrightDemo)
 
-#### ⚙️ WebdriverIO Mocha Framework
-A versatile framework for web and mobile application testing.
-- **Tech:** JavaScript/TypeScript, WebdriverIO, Mocha, Appium, Supertest
-- **Features:** Multi-platform support (Web, Android, iOS), API testing integration, BDD style.
-- [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vladislav-new/webdriverio-framework)
+#### 🎭 Cypress TypeScript Framework
+Automation framework for end-to-end testing.
+- **Tech:** TypeScript, Playwright, Allure Report, Page Object Model
+- **Features:** Parallel execution, cross-browser testing, HTML reports, CI/CD integration.
+- [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vladislav-new/cypressDemo)
 
-#### 📊 k6 Load Testing Framework
-A performance testing project for testing API and web application under load.
-- **Tech:** JavaScript, k6, Grafana, InfluxDB
-- **Features:** Load, stress, spike testing, real-time results visualization.
-- [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vladislav-new/k6-load-testing)
+#### 📊 Lighthouse Load Testing Framework
+A performance testing project for testing API and web pages under load.
+- **Tech:** JavaScript
+- **Features:** Google apdex scoring, real-time results visualization.
+- [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vladislav-new/lighthouseReports)
 
 ---
 
