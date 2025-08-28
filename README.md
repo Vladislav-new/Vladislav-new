@@ -1,15 +1,15 @@
 <h1 align="center">Hello there 👋, I'm Vladislav</h1>
-<h3 align="center">A passionate Automation QA Engineer from Russia</h3>
+<h3 align="center">An Automation QA Engineer from Russia</h3>
 
-- 🔭 I’m currently working on **automation testing frameworks for Web, Mobile and API**
+- 🔭 I’m currently working on **automation testing frameworks for Web, Mobile and API** via Playwright out of box
 
 - 🌱 I’m constantly learning **Advanced TypeScript, DevOps practices and performance testing**
 
-- 👯 I’m looking to collaborate on **interesting test automation projects**
+- 👯 I’m looking to collaborate on **interesting test automation projects** and future SDET projects
 
 - 💬 Ask me about **Playwright, WebdriverIO, API testing, and best practices in test automation**
 
-- 📫 How to reach me: [Telegram](https://t.me/your_telegram) | [Email](mailto:your.email@domain.com)
+- 📫 How to reach me: [Telegram](@soother63)
 
 - ⚡ Fun fact: **I believe that a well-written autotest is a form of documentation**
 
