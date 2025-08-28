@@ -59,14 +59,14 @@ A modern and robust automation framework for end-to-end testing.
 
 #### 🎭 Cypress TypeScript Framework
 Automation framework for end-to-end testing.
-- **Tech:** TypeScript, Playwright, Allure Report, Page Object Model
+- **Tech:** JavaScript/TypeScript,, Cypress, Allure Report, Page Object Model
 - **Features:** Parallel execution, cross-browser testing, HTML reports, CI/CD integration.
 - [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vladislav-new/cypressDemo)
 
 #### 📊 Lighthouse Load Testing Framework
 A performance testing project for testing API and web pages under load.
 - **Tech:** JavaScript
-- **Features:** Google apdex scoring, real-time results visualization.
+- **Features:** Google apdex scoring, real-time results visualization, CI/CD integration.
 - [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vladislav-new/lighthouseReports)
 
 ---
